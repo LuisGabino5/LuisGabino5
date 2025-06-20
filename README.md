@@ -42,7 +42,7 @@ An interactive web project to identify and classify different types of clouds us
 
 ## 📫 Contact
 
-- [LinkedIn](https://www.linkedin.com/) ([add your real link](https://www.linkedin.com/in/luis-gabino-castillo-millet-475aab358))
+- [LinkedIn](https://www.linkedin.com/) (https://www.linkedin.com/in/luis-gabino-castillo-millet-475aab358)
 - Email: luisgabinocastillomillet@gmail.com
 
 ---
