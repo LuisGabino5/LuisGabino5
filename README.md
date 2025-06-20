@@ -1,52 +1,50 @@
-# ¡Hola! 👋 Soy Luis Gabino
+# Hi there! 👋 I'm Luis Gabino
 
-💻 **Desarrollador web y científico de datos**  
-🔍 Buscando oportunidades laborales en desarrollo y tecnología  
-🌎 México (ajusta tu ciudad o país si quieres)
-
----
-
-## 🚀 Sobre mí
-
-- Apasionado por la tecnología, el aprendizaje continuo y los retos creativos.
-- Disfruto desarrollar soluciones prácticas y visuales usando la programación.
-- Actualmente puliendo mi proyecto de **Clasificación de Nubes**, combinando Python, HTML, CSS y JavaScript.
-- Interesado en ciencia de datos, inteligencia artificial y desarrollo web.
+💻 **Web Developer and Data Scientist**  
+🔍 Open to work and new opportunities in tech  
+🌎 Guantanamo, Cuba
 
 ---
 
-## 🛠️ Tecnologías
+## 🚀 About Me
 
-- **Lenguajes:** Python, JavaScript
+- Passionate about technology, continuous learning, and creative challenges.
+- I enjoy developing practical and visual solutions through programming.
+- Currently polishing my **Cloud Classification** project, combining Python, HTML, CSS, and JavaScript.
+- Interested in data science, artificial intelligence, and web development.
+
+---
+
+## 🛠️ Technologies
+
+- **Languages:** Python, JavaScript
 - **Frontend:** HTML, CSS
-- **Herramientas:** Git, GitHub, VS Code
+- **Tools:** Git, GitHub, VS Code
 
 ---
 
-## 🌥️ Proyecto destacado
+## 🌥️ Featured Project
 
-### Clasificación de Nubes
+### Cloud Classification
 
-Proyecto web interactivo para identificar y clasificar distintos tipos de nubes usando técnicas de procesamiento de imágenes y aprendizaje automático.  
-**Tecnologías usadas:** Python, HTML, CSS, JavaScript  
-**Estado:** En desarrollo (ultimando detalles)
+An interactive web project to identify and classify different types of clouds using image processing and machine learning techniques.  
+**Technologies used:** Python, HTML, CSS, JavaScript  
+**Status:** In development (finalizing details)
 
-> _Próximamente estará publicado en mi portafolio web._
-
----
-
-## 📂 Otros proyectos
-
-- [Aquí puedes fijar otros repositorios o proyectos que quieras destacar.]
-- [Agrega enlaces cuando los tengas.]
+> _Coming soon to my web portfolio._
 
 ---
 
-## 📫 Contacto
+## 📂 Other Projects
 
-- [LinkedIn](https://www.linkedin.com/) (pon tu enlace real)
-- Correo: luisgabinocastillomillet@gmail.com
 
 ---
 
-_¡Gracias por visitar mi perfil! Si tienes oportunidades, ideas para colaborar, o quieres conversar sobre tecnología, ¡contáctame!_
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/) (add your real link)
+- Email: luisgabinocastillomillet@gmail.com
+
+---
+
+_Thanks for visiting my profile! If you have opportunities, ideas to collaborate, or want to chat about tech, feel free to reach out!_
