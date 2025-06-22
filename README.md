@@ -1,4 +1,9 @@
-# Hi there! 👋 I'm Luis Gabino
+# Hi there! 👋 I'm Luis Gabino, 
+an architect by training and a meteorologist by vocation. Although my career began among blueprints and structures, my passion for meteorology led me to specialize in this fascinating field, where I combine scientific analysis with the observation of nature.
+
+I've always been enthusiastic about programming and I currently master Python, HTML, CSS, and JavaScript. I am developing several personal projects that integrate my interests in meteorology, artificial intelligence, and data analysis. My goal is to create innovative solutions, such as predictive models for investments in financial markets and technological tools for the study of clouds and meteorological phenomena. I am also very interested in applying technology to solve social problems.
+
+I am motivated by constant learning and collaborating on initiatives that connect science, technology, and society. If you share any of these concerns or have an interesting project, feel free to contact me!
 
 💻 **Web Developer and Data Scientist**  
 🔍 Open to work and new opportunities in tech  
